@@ -1,0 +1,131 @@
+*{
+    color: white; 
+}
+
+body{
+    margin: 0;
+}
+
+.firstpage{
+    background-image: url('netpic.jpg');
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+header{
+    display: inline-block; 
+    width: 100%;
+    height: 100px;
+}
+
+header h1{
+    color: red;
+    position: relative;
+    left: 100px;
+    font-size: 50px;
+}
+
+header select{
+    float: right;
+    position: relative;
+    bottom: 75px;
+    right: 300px;
+    background-color: black;
+}
+
+header button{
+    background-color: red;
+    float: right;
+    position: relative;
+    bottom: 85px;
+    right: 75px; 
+    height: 38px;
+    width: 100px;
+}
+
+
+
+
+.homepage{
+    height: 530px;
+    text-align: center;
+    padding-top: 150px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.firstline{
+    font-size: 25px;
+}
+
+.testinput{
+    background-color: rgba(7, 7, 7, 0.5); 
+    width: 350px;
+}
+
+form input{
+    height: 50px;
+    width: 150px;
+}
+
+.submit{
+    background-color: red;
+}
+
+
+
+.secondpage{
+    background-color: black;
+    width: 100%;
+    height: 1200px;
+    border: solid transparent;
+}
+
+.first, .second {
+    padding: 50px auto;
+    margin: 0 auto;
+    width: 80%;
+    height: 500px;
+}
+
+.first{
+    margin-top: 100px;
+}
+
+
+p{
+    font-size: 25px;
+}
+
+.text{
+    display: inline-block;
+    height: 340px;
+    padding: 80px 0;
+    font-family: sans-serif;
+}
+
+video{
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+}
+
+
+
+
+.video1{
+    float: right;
+}
+
+.video2{
+   float: left; 
+}
+
+#text2{
+    float: right; 
+}
